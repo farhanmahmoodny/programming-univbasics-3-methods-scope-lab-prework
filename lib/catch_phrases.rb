@@ -6,3 +6,5 @@ end
 def toadstool
   puts status
 end
+
+phrase = "Its's-a me, Mario!"
